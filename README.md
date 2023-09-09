@@ -1,2 +1,2 @@
 # fake-news-predictor
-Small NLP exrcise that detects fake news from real news.
+Small NLP exercise that detects fake news from real news.
